@@ -4,9 +4,13 @@
 },
 {
   "zipcode":"1080",
-  "place":"Josefstadt"
+  "place":"Wien"
 },
 {
   "zipcode":"4020",
   "place":"Linz"
+},
+{
+  "zipcode":"7000",
+  "place":"Eisenstadt"
 }]
